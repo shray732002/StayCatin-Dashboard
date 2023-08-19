@@ -35,7 +35,7 @@ The insights presented in the Tableau Story and Dashboard are derived from the f
 
 ## Feedback and Contact
 
-We value your feedback! If you have any questions, suggestions, or encounter issues while using the Tableau Story and Dashboard, please feel free to reach out to [Your Email Address].
+We value your feedback! If you have any questions, suggestions, or encounter issues while using the Tableau Story and Dashboard, please feel free to reach out to shrays650@gmail.com.
 
 Thank you for exploring our Tableau visualizations. We hope you find them informative and engaging!
 
