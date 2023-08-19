@@ -2,7 +2,7 @@
 
 ![StayCatin.com Logo](logo.png)
 
-Welcome to the Tableau Story and Dashboard prepared by [Your Name] for StayCatin.com! This project aims to provide valuable insights and visualizations related to [brief description of the project's purpose]. Below, you'll find information on how to access and interact with the Tableau content.
+Welcome to the Tableau Story and Dashboard prepared by me for StayCatin.com! This project aims to provide valuable insights and visualizations. Below, you'll find information on how to access and interact with the Tableau content.
 
 ## Tableau Story
 
