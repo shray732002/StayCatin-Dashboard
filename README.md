@@ -27,7 +27,6 @@ To access the Tableau Dashboard, click [here](https://public.tableau.com/app/pro
    - Click the provided link to access the Tableau Dashboard.
    - Use the filters and selections to update the visualizations in real-time.
    - Hover over data points for additional information.
-   - [Add any other specific instructions for dashboard interaction.]
 
 ## Data Sources
 
